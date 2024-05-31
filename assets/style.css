@@ -1,0 +1,59 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+header, footer{
+   background-color: rgb(21, 21, 70);
+   color: white;
+    font-family: Arial, sans-serif;
+
+} 
+
+nav{
+    background-color: orangered ;
+    padding: 50px;
+}
+
+.text-center{
+    text-align:center;
+}
+
+nav ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+
+nav ul li{
+    display: inline;
+    
+}
+
+nav ul li a{
+    color: white;
+    font-size: 20px;
+
+}
+
+.picture{
+    width: 500px;
+    height: 400px;
+    
+}
+
+figure{
+    text-align: center;
+    margin: 20px auto;
+}
+
+Figcaption{
+    font-style: italic;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+
+}
+
+section{
+    margin:50px;
+}
